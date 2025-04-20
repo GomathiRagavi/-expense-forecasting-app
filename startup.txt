@@ -1,0 +1,2 @@
+gunicorn expense_forecast.wsgi --log-file -
+
